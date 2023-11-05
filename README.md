@@ -1,3 +1,3 @@
-# PHP and JS Task Files
+# PHP Task Files
 
-These are the task solution files given by the NOTAMEDIA.
+These are the PHP task solution files given by the NOTAMEDIA.
